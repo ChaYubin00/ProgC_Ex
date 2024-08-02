@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uCC28\uC720\uBE48\\Documents\\KDT_24\\0801\\Project14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F7900-7E44-47C0-B785-702128B248EE}|Project14.vcxproj|C:\\Users\\\uCC28\uC720\uBE48\\Documents\\KDT_24\\0801\\Project14\\pointerarray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B20F7900-7E44-47C0-B785-702128B248EE}|Project14.vcxproj|solutionrelative:pointerarray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointerarray.c",
+              "DocumentMoniker": "C:\\Users\\\uCC28\uC720\uBE48\\Documents\\KDT_24\\0801\\Project14\\pointerarray.c",
+              "RelativeDocumentMoniker": "pointerarray.c",
+              "ToolTip": "C:\\Users\\\uCC28\uC720\uBE48\\Documents\\KDT_24\\0801\\Project14\\pointerarray.c",
+              "RelativeToolTip": "pointerarray.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-02T03:16:59.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
