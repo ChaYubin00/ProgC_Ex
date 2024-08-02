@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uCC28\uC720\uBE48\\Documents\\KDT_24\\0801\\Project10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDB71F5-8F34-4BE8-9CAB-4050A59E3D06}|Project10.vcxproj|C:\\Users\\\uCC28\uC720\uBE48\\Documents\\KDT_24\\0801\\Project10\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FDB71F5-8F34-4BE8-9CAB-4050A59E3D06}|Project10.vcxproj|solutionrelative:array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array.c",
+              "DocumentMoniker": "C:\\Users\\\uCC28\uC720\uBE48\\Documents\\KDT_24\\0801\\Project10\\array.c",
+              "RelativeDocumentMoniker": "array.c",
+              "ToolTip": "C:\\Users\\\uCC28\uC720\uBE48\\Documents\\KDT_24\\0801\\Project10\\array.c",
+              "RelativeToolTip": "array.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-02T01:38:02.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
